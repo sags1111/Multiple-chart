@@ -4,6 +4,7 @@ import Dashboard from './Dashboard';
 import ChangeChart from './ChangeChart';
 import MultipleCharts from './MultipleCharts';
 import {Bar,Doughnut,Line} from "react-chartjs-2";
+
 function App() {
   return (
     <div className="App">
